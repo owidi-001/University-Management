@@ -1,0 +1,15 @@
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\bin\Debug\net6.0\studentM.exe
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\bin\Debug\net6.0\studentM.deps.json
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\bin\Debug\net6.0\studentM.runtimeconfig.json
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\bin\Debug\net6.0\studentM.dll
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\bin\Debug\net6.0\studentM.pdb
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.csproj.AssemblyReference.cache
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.AssemblyInfoInputs.cache
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.AssemblyInfo.cs
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.csproj.CoreCompileInputs.cache
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.dll
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\refint\studentM.dll
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.pdb
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\studentM.genruntimeconfig.cache
+C:\Users\whoami\Documents\orders\kim\23\student\studentM\obj\Debug\net6.0\ref\studentM.dll
